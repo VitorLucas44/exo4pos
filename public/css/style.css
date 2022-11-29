@@ -3,13 +3,14 @@
     height: 80px;
     background-color: red;
     justify-content: center;
+    align-items: center;
     
 }
 .c2{
     width: 100px;
     height: 80px;
     background-color: red;
-    text-align: center;
+    align-items: center;
     justify-content: center;
     
 }
@@ -17,7 +18,7 @@
     width: 100px;
     height: 80px;
     background-color: red;
-    text-align: center;
+    align-items: center;
     justify-content: center;
     
 }
@@ -25,7 +26,7 @@
     width: 100px;
     height: 80px;
     background-color: red;
-    text-align: center;
+    align-items: center;
     justify-content: center;
     
 }
@@ -33,7 +34,7 @@
     width: 100px;
     height: 80px;
     background-color: red;
-    text-align: center;
+    align-items: center;
     justify-content: center;
     
 }
@@ -41,7 +42,7 @@
     width: 100px;
     height: 80px;
     background-color: red;
-    text-align: center;
+    align-items: center;
     justify-content: center;
     
 }
